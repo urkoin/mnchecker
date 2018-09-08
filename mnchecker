@@ -49,10 +49,10 @@ userDirName = ".mnchecker"
 
 #==========================================================
 # Currency defaults
-defaultCurrencyHandle = "vivo"
-defaultCliBin = "/usr/local/bin/vivo-cli"
-defaultDaemonBin = "/usr/local/bin/vivod"
-defaultDataDir = os.path.join(os.path.abspath(os.path.expanduser("~")), ".vivocore")
+defaultCurrencyHandle = "germanccd"
+defaultCliBin = "/home/ivan/coins/gcc/germancc-cli"
+defaultDaemonBin = "/home/ivan/coins/gcc/germanccd"
+defaultDataDir = os.path.join(os.path.abspath(os.path.expanduser("~")), ".GermanccCore")
 
 #==========================================================
 # Explorer URL
